@@ -1,0 +1,6 @@
+{
+  "name": "GameVault TH - ตลาดซื้อขายไอดีเกมปลอดภัย ระบบคนกลาง Escrow 100%",
+  "description": "แพลตฟอร์มตลาดซื้อขายไอดีเกมออนไลน์ ปลอดภัยสูงสุดด้วยระบบคนกลางกักเงิน Escrow ตรวจสอบตัวตนผู้ขาย พร้อมระบบหน้าบ้านและหลังบ้านจัดการครบวงจร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
